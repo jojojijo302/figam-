@@ -1,0 +1,104 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  list-style: none;
+  color: inherit;
+}
+.main-div {
+  width: 1160px;
+  height: 833px;
+  background-color: #343c56;
+  border-radius: 40px;
+  margin: 0 auto;
+}
+
+.golib {
+  color: white;
+  background-color: #ff0101;
+  border-radius: 30px;
+  padding: 14px 45px 14px 45px;
+  margin-top: 46px;
+  margin-bottom: 68px;
+}
+
+.ota {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.ota1 {
+  display: flex;
+  justify-content: center;
+  gap: 200px;
+}
+
+.flexBox {
+  padding: 44px 81px 59px 82px;
+  background-color: #000000;
+  color: #ffff;
+  border-radius: 40px;
+  width: 264px;
+  font-size: 24px;
+  margin: 0 auto;
+  margin-top: 41px;
+  text-align: center;
+  margin-bottom: 41px;
+}
+
+.rasm1 {
+  width: 400px;
+  height: 200px;
+}
+
+.video1 {
+  width: 400px;
+  height: 200px;
+}
+
+
+.left{
+    border-radius: 50px;
+    background-color: red;
+    padding: 45px 50px;
+    width: 400px;
+  }
+  
+  .right{
+    border-radius: 50px;
+    background-color: red;
+    padding: 45px 50px;
+    width: 400px;
+  }
+  
+  .ota3{
+    display: flex;
+    justify-content: center;
+    gap: 200px;
+
+
+
+
+    .text2{
+        background-color: #61FF00;
+        padding: 28px 20px 21px 20px;
+        font-size: 12px;
+  }
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
